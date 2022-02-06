@@ -1,5 +1,5 @@
 # LinuxTasks
-Useful linux tasks
+Create a daily notes file that create a text file each day for notes
 
 Use a cronjob that calls the CreateNotesFiles.sh each workday
 Open crontab with the command: crontab -e
