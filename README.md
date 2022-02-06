@@ -1,2 +1,2 @@
 # LinuxTasks
-Usefull linux tasks
+Useful linux tasks
